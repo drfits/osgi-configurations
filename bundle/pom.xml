@@ -72,12 +72,6 @@
             <groupId>biz.aQute.bnd</groupId>
             <artifactId>biz.aQute.bndlib</artifactId>
         </dependency>
-        <dependency>
-            <groupId>org.apache.felix</groupId>
-            <artifactId>org.apache.felix.webconsole.plugins.ds</artifactId>
-            <version>1.0.1.R1658948</version>
-            <scope>provided</scope>
-        </dependency>
     </dependencies>
 
     <!-- ====================================================================== -->
