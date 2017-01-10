@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+          xmlns:jcr="http://www.jcp.org/jcr/1.0"
+          jcr:primaryType="sling:OsgiConfig"
+          cache.enable="{Boolean}true"
+          cache.heap="{Long}1"
+          cache.offheap="{Long}5"
+          cache.initial.values="[1=Gomel,2=Minsk,3=Moscow,]"
+          cache.enabled.areas="1"
+/>
